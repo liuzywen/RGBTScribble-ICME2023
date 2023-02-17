@@ -1,4 +1,4 @@
-# SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection
+# Scribble-Supervised RGB-T Salient Object Detection
 ****
 ![label](https://img.shields.io/badge/Label-%20-red)
 ![saliency](https://img.shields.io/badge/Saliency-%20-green)
