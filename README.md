@@ -2,8 +2,9 @@
 
 
 # RGBT-S dataset (RGB-T Scribble dataset)
-链接：https://pan.baidu.com/s/14jg7idOJziIikSEjfz_ViA 
-提取码：kvz2 
+链接：https://pan.baidu.com/s/1hupHli56S03wAxJTJtLQQw 
+提取码：upv7 
+
 
 
 # RGB-T Saliency Maps
