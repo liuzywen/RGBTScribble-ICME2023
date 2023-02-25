@@ -2,8 +2,9 @@
 
 
 # RGBT-S dataset (RGB-T Scribble dataset)
-链接：https://pan.baidu.com/s/1hupHli56S03wAxJTJtLQQw 
-提取码：upv7 
+链接：https://pan.baidu.com/s/1Wq_bxAkblK3wxyNpirU0Vg 
+提取码：kcvc 
+
 
 
 
