@@ -10,9 +10,7 @@ The paper has been accepted by ICME2023.
 
 
 
-# RGB-T Saliency Maps
-链接：https://pan.baidu.com/s/1VGEHFnMm2fAiK_etfDRmSw 
-提取码：kd42 
+
 
 # Pretraining Parameters
 链接：https://pan.baidu.com/s/10hcP9NjB8Z9VC9kzSt1eCQ 
@@ -26,6 +24,8 @@ The paper has been accepted by ICME2023.
 链接：https://pan.baidu.com/s/1W9L-twMVlM8CXfWJC40Y_g 
 提取码：t2vw 
 
-
+# RGB-T Saliency Maps
+链接：https://pan.baidu.com/s/1VGEHFnMm2fAiK_etfDRmSw 
+提取码：kd42 
 
 If you have any question, please email  liuzywen@ahu.edu.cn
