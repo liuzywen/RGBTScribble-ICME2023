@@ -1,7 +1,7 @@
 # Scribble-Supervised RGB-T Salient Object Detection
 The paper has been accepted by ICME2023.
 
-![Main](images/main.jpg)
+![Main](main.jpg)
 
 # RGBT-S dataset (RGB-T Scribble dataset)
 链接：https://pan.baidu.com/s/1Wq_bxAkblK3wxyNpirU0Vg 
