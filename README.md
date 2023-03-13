@@ -1,5 +1,5 @@
 # Scribble-Supervised RGB-T Salient Object Detection
-The  ![paper](RGBTScribble.pdf) has been accepted by ICME2023.
+The  [paper](RGBTScribble.pdf) has been accepted by ICME2023.
 
 
 ![Main](main.jpg)
