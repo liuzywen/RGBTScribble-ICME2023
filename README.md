@@ -29,4 +29,5 @@ The  [paper](RGBTScribble.pdf) has been accepted by ICME2023.
 链接：https://pan.baidu.com/s/1VGEHFnMm2fAiK_etfDRmSw 
 提取码：kd42 
 
-# If you have any question, please email  liuzywen@ahu.edu.cn
+# Contact
+If you have any question, please email  liuzywen@ahu.edu.cn
