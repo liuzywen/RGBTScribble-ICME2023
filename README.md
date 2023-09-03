@@ -34,7 +34,7 @@ The  [paper](RGBTScribble.pdf) has been accepted by ICME2023.
 If you find the information useful, please consider citing:
 
 ```
-@inproceeding{liu2022,
+@inproceedings{liu2023,
   author={Liu, Zhengyi and  Huang, Xiaoshen and  Zhang, Guanghui and  Fang, Xianyong and  Wang, Linbo and  Tang, Bin},
   journal={2023 IEEE International Conference on Multimedia and Expo (ICME)}, 
   title={Scribble-Supervised RGB-T Salient Object Detection}, 
