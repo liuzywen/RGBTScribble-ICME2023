@@ -37,7 +37,7 @@ If you find the information useful, please consider citing:
 @inproceedings{liu2023,
   author={Liu, Zhengyi and  Huang, Xiaoshen and  Zhang, Guanghui and  Fang, Xianyong and  Wang, Linbo and  Tang, Bin},
   journal={2023 IEEE International Conference on Multimedia and Expo (ICME)}, 
-  title={Scribble-Supervised RGB-T Salient Object Detection}, 
+  booktitle={Scribble-Supervised RGB-T Salient Object Detection}, 
   pages={2369--2374},
   year={2023}}
 ```
