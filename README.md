@@ -5,8 +5,9 @@ The  [paper](RGBTScribble.pdf) has been accepted by ICME2023.
 ![Main](main.jpg)
 
 # RGBT-S dataset (RGB-T Scribble dataset)
-链接：https://pan.baidu.com/s/1Wq_bxAkblK3wxyNpirU0Vg 
-提取码：kcvc 
+链接：https://pan.baidu.com/s/1odSfb7XGnYQ6tUJ341UIdA 
+提取码：t67e 
+
 
 
 
